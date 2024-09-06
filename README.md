@@ -1,2 +1,3 @@
 # studygit-demo
-this is my first git repository
+This is my first Git repository
+Author - Salwa Naseem
